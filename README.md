@@ -3,7 +3,7 @@
 
 This is the app I submitted to Apple’s WWDC 2016 Scholarship competition. Please keep in mind that this app has been developed in about a week time, so please don't expect the code to be very cleanly written. 
 
-_These were the guidelines set by Apple:_
+######These are the guidelines as they were set by Apple:
 
 > Submit any app you have worked on that demonstrates creative use of Apple technologies and runs on an Apple platform. Your submission may be a school project, a project you've built on your own, or an app that is available on the App Store. You will also need to answer an essay question about your coding process and provide proof of enrollment from your school or proof of membership from your STEM organization.
 
